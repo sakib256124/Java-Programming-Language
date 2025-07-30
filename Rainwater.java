@@ -4,6 +4,8 @@ public class Rainwater {
         int leftMax[] = new int[arr.length];
         int rightMax[] =new int[arr.length];
 
+        //two auxilairy array 
+
         leftMax[0] = arr[0];
         rightMax[arr.length -1] = arr[arr.length -1];
        
@@ -33,3 +35,5 @@ public class Rainwater {
         System.out.println(containRain(arr));
     }
 }
+
+// Its a command to delete files which end with .class  Get-ChildItem -Recurse -Filter *.class | Remove-Item -Force
