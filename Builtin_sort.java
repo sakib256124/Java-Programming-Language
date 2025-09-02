@@ -1,7 +1,7 @@
 import java.util.Arrays;
 public class Builtin_sort {
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int arr[] = {12,31,44,1,2,3,4,66,777};
         Arrays.sort(arr,0,5);
                 for(int i :arr){

@@ -1,6 +1,6 @@
 public class DayaTypeLimitandSize {
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
 
 
         //Size in bit

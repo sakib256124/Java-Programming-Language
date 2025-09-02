@@ -1,6 +1,6 @@
 import java.util.*;
 public class Palindromic_pattern {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int n;
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();

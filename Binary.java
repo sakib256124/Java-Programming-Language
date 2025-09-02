@@ -17,7 +17,7 @@ public class Binary {
          }
          return -1;
       }
-      public static void main(String[] args) {
+      public static void main(Strings[] args) {
         int arr[] = {2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,23,24,34,54};
         int key = 14;
         int x = binarySearch(arr, key);

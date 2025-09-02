@@ -12,7 +12,7 @@ public class BInary_to_decimal {
         }
         System.out.println(dec);
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         binToDec(n);

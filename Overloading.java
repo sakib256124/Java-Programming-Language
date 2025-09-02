@@ -15,7 +15,7 @@ public class Overloading {
     public static void Mul(int a, int b,int c){
         System.out.println("Multiplication(abc) :" + a*b*c);
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int a = 2,b=5,c= 9;
         float e = 5.3f,d = 5.2f;
         Add(a, b);

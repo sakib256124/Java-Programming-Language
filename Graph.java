@@ -24,7 +24,7 @@ public class Graph {
         graph[3].add(new Edge(3, 1));
         graph[3].add(new Edge(3, 2));
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int v = 4;
         ArrayList<Edge> graph[] = new ArrayList[v];
     }

@@ -4,7 +4,7 @@ public class Method {
     public static int Add(int a, int b){ // here a, b are formal perameter or perameter
         return a+ b;
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         int c = sc.nextInt();
         int d = sc.nextInt();

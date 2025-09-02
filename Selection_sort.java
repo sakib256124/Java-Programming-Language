@@ -18,7 +18,7 @@ public class Selection_sort {
             System.out.print(i+ " ");
         }
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int arr[] = {23,12,34,24,65,63,4};
         int n = arr.length;
         Selection(arr,n);

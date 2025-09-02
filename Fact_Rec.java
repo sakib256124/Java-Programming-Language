@@ -13,7 +13,7 @@ public class Fact_Rec {
         }
         return n + Sum(n-1);
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int n = 5;
         int fac = Fact(n);
         System.out.println(fac);

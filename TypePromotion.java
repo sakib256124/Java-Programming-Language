@@ -1,7 +1,7 @@
 import java.util.*;
 public class TypePromotion {
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         // Type promotion occurs when expression are used
          short a = 5;
          byte b = 34;

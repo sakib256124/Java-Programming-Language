@@ -16,7 +16,7 @@ public class Max_Subarray {
         }
         return max;
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int arr[] = new int[5];
         Scanner sc  = new Scanner(System.in);
 

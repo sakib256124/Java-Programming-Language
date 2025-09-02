@@ -1,6 +1,6 @@
 import java.util.*;
 public class Floyd_triangle {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         
 
     Scanner sc = new Scanner(System.in);

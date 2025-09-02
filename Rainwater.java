@@ -30,7 +30,7 @@ public class Rainwater {
         return water;
     }
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int arr[] = {4,2,3,5,1,6,1};
         System.out.println(containRain(arr));
     }
